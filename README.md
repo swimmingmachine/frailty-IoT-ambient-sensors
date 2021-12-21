@@ -7,6 +7,9 @@
 
 All sensors have internet connectivity through in-home Wi-Fi. All sensors except the smart speaker shared a similar system architecture which comprised a microcontroller, a sensing module, a rechargeable battery, and some electronic components. The micro-controller was Arduino-based.
 
+# Prototyping
+![image](https://user-images.githubusercontent.com/50496048/146990449-42bf4797-3ed7-4a64-96ea-b07d52b5509e.png)
+
 # System Deployment Layout in HomeLab
 ## HomeLab in Toronto Rehab Institute
 ![image](https://user-images.githubusercontent.com/50496048/146969446-f8da5f39-2a0f-4f5d-adc5-8b9733a26846.png)
